@@ -1,0 +1,1 @@
+print 'again this is a file in dir1'
